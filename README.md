@@ -2,7 +2,9 @@
 - 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning React js
 - 📫 How to reach me:karthigmech46@gmail.com
--  Languages and Tools: html5 css3 javascript react
+- Languages and Tools:
+bootstrap  css3 html5 javascript react
+
 
 
 
